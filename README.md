@@ -1,19 +1,18 @@
 #EXTM3U
 #EXTINF:0 type="stream" channelId="-1", Dailysport 1
-https://cdnx.dailysportlist.xyz/1/1.m3u8
-#EXTINF:0 type="stream" channelId="-1", Dailysport 1
-
-
-#EXTINF:0 type="stream" channelId="-1", Dailysport 2
-https://cdnx.dailysportlist.xyz/2/2.m3u8
+https://storage.googleapis.com/dailycl4/1/1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dailysport 5
+https://storage.googleapis.com/dailycl4/epl1/1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Dailysport 7
+https://storage.googleapis.com/dailycl4/7/7.m3u8
 #EXTINF:0 type="stream" channelId="-1", Dailysport 3
-https://cdnx.dailysportlist.xyz/3/3.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", Dailysport 4
-https://cdnx.dailysportlist.xyz/4/4.m3u8
+
 
 #EXTINF:0 type="stream" channelId="-1", Dailysport 20
-https://cdnx.dailysportlist.xyz/20/20.m3u8
+
  
 #EXTINF:- 1,La Liga TV Bar FHD
 http://217.69.6.189:25461/live/TV-56313790/616636591634/48396.m3u8?token=QhZYVkRQFQwXAw5UBFQAVQ8DVgQPBw8CWVZZVwQPAgEPAgECUgADBAMXFBIRQkcDWFg5CFMQA1IAVgFVHxVGEFxGb15TGg0UBAUAAVYHF0obQQ8MUhADVhRHSApXFQlBCgEDAhUUFVNNQV1CDFdZOV1QEAhUVxtcVhBUDx8VXA1mUFVaVlZTFA8XCBJOFFwVSRdcD0JeVUoaB1EXQVZHBhsOEgMDDwYUGRdbXxdYQRRAF1xDcmEbShoAQBdWWUAKVloSDRVVBEMNFxQSC0VqFFxGEhNSU1QDSkcCQQMVH0FUVUhoVFdZWFBWTFkNWEZEAxdXQxsQVAlWDEwMQWhDCl0WChUGCQMFAxdF
